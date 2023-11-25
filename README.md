@@ -11,6 +11,7 @@ A script that analizes a web server x509 certificates to get information about s
 
 ### Blacklists
 The blacklist.csv file contains infromations of date, CN and level of danger of a cert. these values are separated by ';' and every entry is separated by a new line.
+
 The sslblacklist.csv contains information of the listing date, SHA1 fingerprint of cert and the listing reason. these values are separated by ',' and every entry is separated by a new line.
 
 ### Authors
